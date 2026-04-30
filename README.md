@@ -120,7 +120,7 @@ Mi enfoque combina **backend sólido + frontend moderno + automatización con IA
 ## 🤝 Conecta conmigo
 
 - GitHub: https://github.com/IvanGarciaG
-- LinkedIn: (pon aquí tu LinkedIn)
+- LinkedIn: https://www.linkedin.com/in/saul-ivan-garcia-garcia-6a2145327/
 
 ---
 
